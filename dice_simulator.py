@@ -1,3 +1,5 @@
+print("Welcome to Python Calculator!")
+
 import random
 
 def roll_dice():
