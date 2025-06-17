@@ -1,4 +1,6 @@
 def calculator():
+    print(f"✅ Your result is: {result}")
+
     print("🔢 Simple Calculator")
     
     try:
