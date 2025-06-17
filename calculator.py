@@ -1,4 +1,8 @@
+
+
+
 def calculator():
+    print("📢 Welcome to Muqadas' Calculator!\n")
     print("🔢 Simple Calculator")
     
     try:
