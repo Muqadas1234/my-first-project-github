@@ -1,5 +1,6 @@
 
 
+# This is a simple calculator script
 
 def calculator():
     print("🔢 Simple Calculator")
