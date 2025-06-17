@@ -31,3 +31,12 @@ Make sure Python 3 is installed on your machine. You can check with:
 
 ```bash
 python --version
+
+# Python Calculator
+
+A simple calculator written in Python.
+
+## Features
+- Add, Subtract, Multiply, Divide
+- Handles division by zero
+
