@@ -3,6 +3,7 @@
 # This is a simple calculator script
 
 def calculator():
+    print("This is print line")
     print("🔢 Simple Calculator")
     
     try:
